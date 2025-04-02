@@ -9,6 +9,7 @@ public class Sample {
 	}
 	public Sample() {
 		System.out.print("3");
+		//TEST
 	}
 
 }
