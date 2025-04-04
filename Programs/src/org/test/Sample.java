@@ -8,7 +8,9 @@ public class Sample {
 		System.out.print("2");
 	}
 	public Sample() {
-		System.out.print("3");
+		System.out.print("4");
+		System.out.println("5");
+		System.out.println("6");
 		//TEST
 	}
 
